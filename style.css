@@ -1,0 +1,27 @@
+div.rojo {
+    block-size: 25%;
+    background-color: red;
+    display: block;
+    height: 100px;
+    width: 250px;
+}
+
+div.azul {
+    block-size: 25%;
+    background-color: blue;
+    display: inline-block;
+    height: 100px;
+    width: 250px;
+}
+
+div.verde {
+    block-size: 25%;
+    background-color: green;
+    display: inline;
+    height: 100px;
+    width: 250px;
+}
+
+h1{
+    background-color: red;
+}
